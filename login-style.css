@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+.login-card {
+    border-width: 2px;
+    border-color: #E1E1E1;
+    box-shadow: 5px 5px 8px #7C7C7C;
+}
+
+
+#error-message {
+    color: crimson;
+}
