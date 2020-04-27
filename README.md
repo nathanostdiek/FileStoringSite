@@ -8,3 +8,6 @@ Link: http://ec2-3-22-172-64.us-east-2.compute.amazonaws.com/~nathanostdiek/mod2
 Users can login as "alice", "bob", and "patrick"
 
 ## Screenshots
+<a> 
+  <image src="Home.png">
+    </a>
